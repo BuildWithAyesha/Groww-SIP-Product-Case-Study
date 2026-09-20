@@ -2,7 +2,7 @@
 ## Empowering First-Time SIP Investors
 ### Product Space Fellowship — Cohort 19 Capstone Project
 ### 🏆 1st Place | Cohort 19
-#### Team: Sneha Vohra · Chhavi Arora · Ayesha Bamahadi · Arunima Das
+#### Team: Ayesha Bamahadi . Sneha Vohra · Chhavi Arora · Arunima Das
 
 ## 📌 Overview
 
@@ -14,10 +14,10 @@ Our team explored the user journey from fund discovery to SIP activation, identi
 ## 🎯 Core Opportunity
 How might we help first-time investors move from exploring SIPs to confidently starting their first SIP?
 
-##💡 Vision
+### 💡 Vision
 Help first-time investors begin their SIP journey with clarity, confidence, and zero overwhelm—while building long-term trust and investing habits on Groww.
 
-## 🎯 Mission
+### 🎯 Mission
 Empower first-time investors to build long-term wealth by making SIP investing on Groww simple, personalized, transparent, and emotionally reassuring.
 
 ## 🔎 The Problem
@@ -106,7 +106,7 @@ We used the RICE framework to evaluate potential solutions based on:
 - Impact
 - Confidence
 - Effort
-- 
+
 This helped us move from a broad opportunity space to a focused set of solutions with a clear connection to the conversion objective.
 
 
@@ -242,12 +242,11 @@ Product metrics
 Risk and mitigation planning
 
 ## 👥 Team
-Ayesha Bamahadi
-Sneha Vohra
-Chhavi Arora
-Arunima Das
-
-### Product Space Fellowship — Cohort 19
+- Ayesha Bamahadi
+- Sneha Vohra
+- Chhavi Arora
+- Arunima Das
+#### Product Space Fellowship — Cohort 19
 
 ## Disclaimer
 
