@@ -2,7 +2,7 @@
 ## Empowering First-Time SIP Investors
 ### Product Space Fellowship — Cohort 19 Capstone Project
 ### 🏆 1st Place | Cohort 19
-#### Team: Ayesha Bamahadi . Sneha Vohra · Chhavi Arora · Arunima Das
+#### Team: Ayesha Bamahadi | Sneha Vohra | Chhavi Arora | Arunima Das
 
 ## 📌 Overview
 
