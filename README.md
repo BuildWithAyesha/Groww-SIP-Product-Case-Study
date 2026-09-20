@@ -229,24 +229,24 @@ Together We Groww was presented as our Product Space Fellowship Cohort 19 Capsto
 🏆 1st Place — Cohort 19
 
 The project brought together:
-User research
-Product discovery
-Funnel analysis
-Persona development
-Journey mapping
-Opportunity Solution Tree
-RICE prioritization
-Product strategy
-UX concepts and wireframes
-Product metrics
-Risk and mitigation planning
+- User research
+- Product discovery
+- Funnel analysis
+- Persona development
+- Journey mapping
+- Opportunity Solution Tree
+- RICE prioritization
+- Product strategy
+- UX concepts and wireframes
+- Product metrics
+- Risk and mitigation planning
 
 ## 👥 Team
 - Ayesha Bamahadi
 - Sneha Vohra
 - Chhavi Arora
 - Arunima Das
-#### Product Space Fellowship — Cohort 19
+##### Product Space Fellowship — Cohort 19
 
 ## Disclaimer
 
